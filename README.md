@@ -5,3 +5,4 @@
 - Python-crfsuite (pos-tagger).
 - Sklearn-crfsuite (pos-tagger).
 - Deep learning models such as Bi-LSTM, Simple-RNN and GRU.
+# Construct Parallel Data with the top-100 similar sentences.
